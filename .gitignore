@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# A student's own training results (created when you train)
+best_weights.json
+progress.json
+
+# The built student package (rebuild with: python make_student_package.py)
+dist/
+
+# Editor settings (the student package generates its own .vscode folder)
+.vscode/
+
+# Local scratch
+*.tmp
+.write_test
