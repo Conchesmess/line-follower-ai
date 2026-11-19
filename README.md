@@ -59,10 +59,13 @@ Then follow **`student-guide.md`**.
 
 ## License
 
-This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International** license ([CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)). The full text is in the `LICENSE` file.
+Free to use for learning, teaching and other **non-commercial** purposes. You may not use it to make money. Credit is required.
 
-You are free to copy, share and adapt it for **non-commercial** purposes, as long as you give **credit** (the author's name, a link to the license, and a note of any changes you made). You may not use it to make money.
+| What | License |
+|---|---|
+| The code (`*.py`, `requirements.txt`) | [PolyForm Noncommercial 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0). Full text in `LICENSE-CODE`. Schools and educational institutions are permitted. |
+| The guides, glossary, explainers, README and screenshot | [Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Full text in `LICENSE-DOCS`. Give credit, link the license, and note any changes. |
 
-Copyright (c) 2026 Conchesmess (<https://github.com/Conchesmess>).
+See `LICENSE` for the summary. Copyright (c) 2026 Conchesmess (<https://github.com/Conchesmess>).
 
 Not affiliated with LEGO, SPIKE or Pybricks. Those names belong to their owners.

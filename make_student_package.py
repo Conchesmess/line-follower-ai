@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0  (see LICENSE-CODE)
 """
 BUILD THE STUDENT PACKAGE  (teacher tool; not included in the package)
 =====================================================================
@@ -34,7 +35,7 @@ FOLDER = "LineFollowerAI"                       # the folder students get when t
 OUT = os.path.join(HERE, "dist", "LineFollowerAI-student.zip")
 
 TEACHER_ONLY_CODE = {"make_student_package.py"}
-STUDENT_DOCS = ["README.md", "LICENSE", "student-guide.md", "weights-explained.md", "glossary.md", "requirements.txt"]
+STUDENT_DOCS = ["README.md", "LICENSE", "LICENSE-CODE", "LICENSE-DOCS", "student-guide.md", "weights-explained.md", "glossary.md", "requirements.txt"]
 IMAGE_DIR = "images"
 
 VSCODE_FILES = {

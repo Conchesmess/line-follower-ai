@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0  (see LICENSE-CODE)
 """
 RULES vs WEIGHTS — an interactive side-by-side
 ===============================================

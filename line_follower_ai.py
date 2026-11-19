@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0  (see LICENSE-CODE)
 """
 LINE-FOLLOWING AI UNIT — TEACHER PROTOTYPE
 ===========================================
