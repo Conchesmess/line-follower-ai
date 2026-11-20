@@ -7,7 +7,7 @@ best_weights.json
 progress.json
 
 # The built student package (rebuild with: python make_student_package.py)
-dist/
+# dist/
 
 # Editor settings (the student package generates its own .vscode folder)
 .vscode/
